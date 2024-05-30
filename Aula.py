@@ -11,3 +11,5 @@ match ope:
         print("Você digitou uma vogal!")
     case "u":
         print("Você digitou uma vogal!")
+    case _:
+        print("Você digitou uma consoante!")
