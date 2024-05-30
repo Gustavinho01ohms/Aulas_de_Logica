@@ -1,0 +1,13 @@
+ope = input()    
+
+match ope:
+    case "a":
+        print("Você digitou uma vogal!")
+    case "e":
+        print("Você digitou uma vogal!")
+    case "i":
+        print("Você digitou uma vogal!")
+    case "o":
+        print("Você digitou uma vogal!")
+    case "u":
+        print("Você digitou uma vogal!")
